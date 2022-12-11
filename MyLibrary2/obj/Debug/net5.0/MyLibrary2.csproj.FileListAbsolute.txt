@@ -1,0 +1,12 @@
+C:\Users\HP ProBook\Desktop\MP\С#\Homework5\MyLibrary2\bin\Debug\net5.0\MyLibrary2.deps.json
+C:\Users\HP ProBook\Desktop\MP\С#\Homework5\MyLibrary2\bin\Debug\net5.0\MyLibrary2.dll
+C:\Users\HP ProBook\Desktop\MP\С#\Homework5\MyLibrary2\bin\Debug\net5.0\MyLibrary2.pdb
+C:\Users\HP ProBook\Desktop\MP\С#\Homework5\MyLibrary2\obj\Debug\net5.0\MyLibrary2.csproj.AssemblyReference.cache
+C:\Users\HP ProBook\Desktop\MP\С#\Homework5\MyLibrary2\obj\Debug\net5.0\MyLibrary2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP ProBook\Desktop\MP\С#\Homework5\MyLibrary2\obj\Debug\net5.0\MyLibrary2.AssemblyInfoInputs.cache
+C:\Users\HP ProBook\Desktop\MP\С#\Homework5\MyLibrary2\obj\Debug\net5.0\MyLibrary2.AssemblyInfo.cs
+C:\Users\HP ProBook\Desktop\MP\С#\Homework5\MyLibrary2\obj\Debug\net5.0\MyLibrary2.csproj.CoreCompileInputs.cache
+C:\Users\HP ProBook\Desktop\MP\С#\Homework5\MyLibrary2\obj\Debug\net5.0\MyLibrary2.dll
+C:\Users\HP ProBook\Desktop\MP\С#\Homework5\MyLibrary2\obj\Debug\net5.0\refint\MyLibrary2.dll
+C:\Users\HP ProBook\Desktop\MP\С#\Homework5\MyLibrary2\obj\Debug\net5.0\MyLibrary2.pdb
+C:\Users\HP ProBook\Desktop\MP\С#\Homework5\MyLibrary2\obj\Debug\net5.0\ref\MyLibrary2.dll
